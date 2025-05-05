@@ -1,0 +1,9 @@
+Province	Sichuan	Gansu	Chongqing	Guizhou	Qinghai
+Early pregnancy	5913	1842	2278	1716	357
+Late pregnancy	3946	1927	1217	878	1302
+Delivery	4648	2201	1948	1204	1067
+1 month	4187	803	1663	221	670
+6 months	3433	343	1576	120	351
+1 year	2468	152	1253	66	140
+2 years	1156	9	792	9	33
+3 years	0	0	29	0	0
